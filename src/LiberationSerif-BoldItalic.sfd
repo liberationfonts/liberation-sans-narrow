@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1374733842
+ModificationTime: 1375171655
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -3182,7 +3182,7 @@ FitToEm: 1
 WinInfo: 1113675 31 15
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114124 673
+BeginChars: 1114124 674
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -65839,7 +65839,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
-Substitution2: "'locl' Localized Forms lookup 0-1" umacron
+Substitution2: "'locl' Localized Forms lookup 0-1" S_PE
 EndChar
 
 StartChar: afii10082
@@ -94978,13 +94978,29 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-29 -389 m 1,0,-1
- 55 -239 l 1,1,-1
- 1493 -239 l 1,2,-1
- 1467 -389 l 1,3,-1
- 29 -389 l 1,0,-1
+29 -399 m 5
+ 55 -249 l 5
+ 1493 -249 l 5
+ 1467 -399 l 5
+ 29 -399 l 5
 EndSplineSet
 Refer: 478 1096 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S_PE
+Encoding: 1114106 -1 673
+Width: 1139
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+169 1151 m 1,0,-1
+ 195 1301 l 1,1,-1
+ 1153 1301 l 1,2,-1
+ 1127 1151 l 1,3,-1
+ 169 1151 l 1,0,-1
+EndSplineSet
+Refer: 88 117 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont

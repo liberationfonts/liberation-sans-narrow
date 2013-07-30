@@ -18,7 +18,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1374669587
+ModificationTime: 1375175594
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 3
@@ -804,7 +804,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64812 44 17
+WinInfo: 273 21 15
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65558 683
@@ -29069,11 +29069,11 @@ StartChar: Imacron
 Encoding: 298 298 234
 Width: 467
 GlyphClass: 2
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 3
-Refer: 329 713 N 1 0 0 1 -230 334 2
+Refer: 329 713 S 1 0 0 1 -300 334 2
 EndChar
 
 StartChar: imacron
@@ -32130,11 +32130,11 @@ StartChar: umacron
 Encoding: 363 363 299
 Width: 1026
 GlyphClass: 2
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 Refer: 88 117 N 1 0 0 1 0 0 3
-Refer: 329 713 N 1 0 0 1 -26 0 2
+Refer: 329 713 S 1 0 0 1 -86 0 2
 EndChar
 
 StartChar: Ubreve
@@ -75249,11 +75249,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1481 1203 m 1
- 221 1203 l 1
- 270 1371 l 1
- 1536 1371 l 1
- 1481 1203 l 1
+1481 1203 m 1,0,-1
+ 221 1203 l 1,1,-1
+ 270 1371 l 1,2,-1
+ 1536 1371 l 1,3,-1
+ 1481 1203 l 1,0,-1
 EndSplineSet
 Refer: 478 1096 N 1 0 0 1 0 0 2
 EndChar
@@ -75261,15 +75261,15 @@ EndChar
 StartChar: S_SHA
 Encoding: 65531 -1 682
 Width: 1487
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1251 -297 m 1
- -9 -297 l 1
- 40 -129 l 1
- 1306 -129 l 1
- 1251 -297 l 1
+1251 -297 m 1,0,-1
+ -9 -297 l 1,1,-1
+ 40 -129 l 1,2,-1
+ 1306 -129 l 1,3,-1
+ 1251 -297 l 1,0,-1
 EndSplineSet
 Refer: 478 1096 N 1 0 0 1 0 0 2
 EndChar

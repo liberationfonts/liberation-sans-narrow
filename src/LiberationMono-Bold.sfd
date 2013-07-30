@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1374730218
+ModificationTime: 1375175672
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -53,7 +53,7 @@ OS2FamilyClass: 2053
 OS2Vendor: '1ASC'
 OS2CodePages: 6000009f.dfd70000
 OS2UnicodeRanges: a00002af.400078fb.00000000.00000000
-Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {} ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -42290,6 +42290,7 @@ SplineSet
  464 982 464 982 531.5 1004.5 c 128,-1,58
  599 1027 599 1027 685 1027 c 0,20,21
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup 0-1" S_BE
 EndChar
 
 StartChar: afii10067
