@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1374730542
+ModificationTime: 1375430153
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3415,10 +3415,10 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1113629 29 18
+WinInfo: 1112694 66 22
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114127 676
+BeginChars: 1114127 677
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -56819,7 +56819,7 @@ SplineSet
  286 1082 l 1,7,-1
  1153 1082 l 1,0,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" umacron
+Substitution2: "'locl' Localized Forms lookup 0-1" S_PE
 EndChar
 
 StartChar: afii10082
@@ -80429,11 +80429,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1243 1236 m 1
- 232 1236 l 1
- 257 1363 l 1
- 1268 1363 l 1
- 1243 1236 l 1
+1243 1236 m 1,0,-1
+ 232 1236 l 1,1,-1
+ 257 1363 l 1,2,-1
+ 1268 1363 l 1,3,-1
+ 1243 1236 l 1,0,-1
 EndSplineSet
 Refer: 478 1096 N 1 0 0 1 0 0 2
 EndChar
@@ -80445,13 +80445,37 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-963 -274 m 1
- -68 -274 l 1
- -43 -147 l 1
- 988 -147 l 1
- 963 -274 l 1
+963 -274 m 5,0,-1
+ -68 -274 l 5,1,-1
+ -43 -147 l 5,2,-1
+ 988 -147 l 5,3,-1
+ 963 -274 l 5,0,-1
 EndSplineSet
 Refer: 478 1096 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S_PE
+Encoding: 1114106 -1 676
+Width: 1229
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1193 1246 m 5,0,-1
+ 312 1246 l 5,1,-1
+ 337 1373 l 5,2,-1
+ 1218 1373 l 5,3,-1
+ 1193 1246 l 5,0,-1
+921 0 m 1,4,-1
+ 1148 1082 l 1,5,-1
+ 968 1082 l 1,6,-1
+ 783 131 l 1,7,-1
+ 276 131 l 1,8,-1
+ 461 1082 l 1,9,-1
+ 281 1082 l 1,10,-1
+ 71 0 l 1,11,-1
+ 921 0 l 1,4,-1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
