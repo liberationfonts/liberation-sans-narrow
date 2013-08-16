@@ -1,4 +1,4 @@
-
+- Corrected U+2588 shape to match with Dejavu fonts in Mono
 - Resolved Serbian bug #984428
 - applied patch to remove kerning for number 1
 - corrected shape of U+040D #799384

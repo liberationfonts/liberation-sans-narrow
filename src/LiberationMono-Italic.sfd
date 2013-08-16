@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1375430153
+ModificationTime: 1376636404
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3415,9 +3415,16 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1112694 66 22
+WinInfo: 9504 66 22
 BeginPrivate: 0
 EndPrivate
+Grid
+1229 -452 m 1
+ 0 -452 l 1
+ 0 1705 l 1
+ 1229 1705 l 1
+ 1229 -452 l 1
+EndSplineSet
 BeginChars: 1114127 677
 
 StartChar: .notdef
@@ -72685,11 +72692,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-1229 -615 m 1,0,-1
- 0 -615 l 1,1,-1
+1229 -452 m 1,0,-1
+ 0 -452 l 1,1,-1
  0 627 l 1,2,-1
  1229 627 l 1,3,-1
- 1229 -615 l 1,0,-1
+ 1229 -452 l 1,0,-1
 EndSplineSet
 EndChar
 
@@ -72717,11 +72724,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-1229 -615 m 1,0,-1
- 0 -615 l 1,1,-1
- 0 1705 l 1,2,-1
- 1229 1705 l 1,3,-1
- 1229 -615 l 1,0,-1
+1229 -452 m 5,0,-1
+ 0 -452 l 5,1,-1
+ 0 1705 l 5,2,-1
+ 1229 1705 l 5,3,-1
+ 1229 -452 l 5,0,-1
 EndSplineSet
 EndChar
 
@@ -72749,11 +72756,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-615 -615 m 1,0,-1
- 0 -615 l 1,1,-1
+615 -450 m 1,0,-1
+ 0 -450 l 1,1,-1
  0 1705 l 1,2,-1
  615 1705 l 1,3,-1
- 615 -615 l 1,0,-1
+ 615 -450 l 1,0,-1
 EndSplineSet
 EndChar
 
@@ -72781,11 +72788,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-1229 -615 m 1,0,-1
- 614 -615 l 1,1,-1
+1229 -452 m 1,0,-1
+ 614 -452 l 1,1,-1
  614 1705 l 1,2,-1
  1229 1705 l 1,3,-1
- 1229 -615 l 1,0,-1
+ 1229 -452 l 1,0,-1
 EndSplineSet
 EndChar
 
