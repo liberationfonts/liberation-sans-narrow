@@ -1,3 +1,4 @@
+* Fri Aug 23 2013 Pravin Satpute <psatpute@redhat.com> 1.07.3
 - Corrected U+2588 shape to match with Dejavu fonts in Mono
 - Resolved Serbian bug #984428
 - applied patch to remove kerning for number 1
