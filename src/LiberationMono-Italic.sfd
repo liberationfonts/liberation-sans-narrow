@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1376636404
+ModificationTime: 1385628228
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3415,7 +3415,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 9504 66 22
+WinInfo: 1112694 66 22
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -3425,7 +3425,7 @@ Grid
  1229 1705 l 1
  1229 -452 l 1
 EndSplineSet
-BeginChars: 1114127 677
+BeginChars: 1114127 679
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -54345,7 +54345,7 @@ SplineSet
  556 986 556 986 623.5 1006.5 c 128,-1,66
  691 1027 691 1027 770 1027 c 0,25,26
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" S_BE
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10066.alt1
 EndChar
 
 StartChar: afii10067
@@ -54649,7 +54649,7 @@ SplineSet
  370 1082 l 1,5,-1
  1155 1082 l 1,0,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" imacron
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10068.alt1
 EndChar
 
 StartChar: afii10069
@@ -55021,7 +55021,7 @@ SplineSet
  1065 142 l 1,25,-1
  958 -408 l 1,8,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" g
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10069.alt1
 EndChar
 
 StartChar: afii10070
@@ -56826,7 +56826,7 @@ SplineSet
  286 1082 l 1,7,-1
  1153 1082 l 1,0,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" S_PE
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10081.alt1
 EndChar
 
 StartChar: afii10082
@@ -56943,7 +56943,7 @@ SplineSet
  208 940 l 1,7,-1
  235 1082 l 1,0,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" S_TE
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10084.alt1
 EndChar
 
 StartChar: afii10085
@@ -58149,7 +58149,7 @@ SplineSet
  1022 0 l 1,11,-1
  -3 0 l 1,0,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" S_SHA
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10090.alt1
 EndChar
 
 StartChar: afii10091
@@ -80381,7 +80381,7 @@ Refer: 67 96 N 1 0 0 1 -59 12 2
 Refer: 462 1080 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: S_BE
+StartChar: afii10066.alt1
 Encoding: 1114109 -1 673
 Width: 1229
 VWidth: 0
@@ -80429,7 +80429,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: S_TE
+StartChar: afii10084.alt1
 Encoding: 1114108 -1 674
 Width: 1229
 Flags: W
@@ -80445,7 +80445,7 @@ EndSplineSet
 Refer: 478 1096 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: S_SHA
+StartChar: afii10090.alt1
 Encoding: 1114107 -1 675
 Width: 1229
 Flags: W
@@ -80461,7 +80461,7 @@ EndSplineSet
 Refer: 478 1096 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: S_PE
+StartChar: afii10081.alt1
 Encoding: 1114106 -1 676
 Width: 1229
 Flags: W
@@ -80483,6 +80483,25 @@ SplineSet
  71 0 l 1,11,-1
  921 0 l 1,4,-1
 EndSplineSet
+EndChar
+
+StartChar: afii10068.alt1
+Encoding: 1114105 -1 677
+Width: 1229
+Flags: W
+LayerCount: 2
+Fore
+Refer: 329 713 N 1 0 0 1 8 0 2
+Refer: 241 305 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: afii10069.alt1
+Encoding: 1114104 -1 678
+Width: 1229
+Flags: W
+LayerCount: 2
+Fore
+Refer: 74 103 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

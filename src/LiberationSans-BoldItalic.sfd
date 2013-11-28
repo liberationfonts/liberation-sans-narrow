@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1375248496
+ModificationTime: 1385628941
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -3003,7 +3003,7 @@ FitToEm: 1
 WinInfo: 1113420 44 17
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114132 684
+BeginChars: 1114132 686
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -53861,7 +53861,7 @@ SplineSet
  686 -20 686 -20 574 -20 c 0,26,27
 EndSplineSet
 Kerns2: 482 -27 "'kern' Horizontal Kerning lookup 0 subtable"  479 -104 "'kern' Horizontal Kerning lookup 0 subtable"  476 -78 "'kern' Horizontal Kerning lookup 0 subtable"  474 -51 "'kern' Horizontal Kerning lookup 0 subtable"  472 -51 "'kern' Horizontal Kerning lookup 0 subtable"  465 -27 "'kern' Horizontal Kerning lookup 0 subtable"  464 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -27 "'kern' Horizontal Kerning lookup 0 subtable"  459 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
-Substitution2: "'locl' Localized Forms lookup 0-1" S_BE
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10066.alt1
 EndChar
 
 StartChar: afii10067
@@ -54292,7 +54292,7 @@ SplineSet
  635 911 635 911 580 911 c 0,0,1
 EndSplineSet
 Kerns2: 484 -27 "'kern' Horizontal Kerning lookup 0 subtable"  470 -51 "'kern' Horizontal Kerning lookup 0 subtable"  467 -51 "'kern' Horizontal Kerning lookup 0 subtable"  465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  460 -51 "'kern' Horizontal Kerning lookup 0 subtable"  458 -51 "'kern' Horizontal Kerning lookup 0 subtable"  457 -78 "'kern' Horizontal Kerning lookup 0 subtable"  453 -27 "'kern' Horizontal Kerning lookup 0 subtable"  17 -27 "'kern' Horizontal Kerning lookup 0 subtable"  15 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
-Substitution2: "'locl' Localized Forms lookup 0-1" imacron
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10068.alt1
 EndChar
 
 StartChar: afii10069
@@ -54452,7 +54452,7 @@ SplineSet
  460 172 460 172 567 172 c 0,49,50
 EndSplineSet
 Kerns2: 460 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
-Substitution2: "'locl' Localized Forms lookup 0-1" g
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10069.alt1
 EndChar
 
 StartChar: afii10070
@@ -56238,7 +56238,7 @@ SplineSet
  1017 0 l 1,43,-1
  738 0 l 1,0,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" S_PE
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10081.alt1
 EndChar
 
 StartChar: afii10082
@@ -56269,7 +56269,7 @@ LayerCount: 2
 Fore
 Refer: 80 109 N 1 0 0 1 0 0 3
 Kerns2: 482 -51 "'kern' Horizontal Kerning lookup 0 subtable"  472 -51 "'kern' Horizontal Kerning lookup 0 subtable"  470 -27 "'kern' Horizontal Kerning lookup 0 subtable"  467 -27 "'kern' Horizontal Kerning lookup 0 subtable"  465 -27 "'kern' Horizontal Kerning lookup 0 subtable"  464 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -51 "'kern' Horizontal Kerning lookup 0 subtable"  459 -27 "'kern' Horizontal Kerning lookup 0 subtable"  458 -27 "'kern' Horizontal Kerning lookup 0 subtable"  457 -27 "'kern' Horizontal Kerning lookup 0 subtable"  17 -27 "'kern' Horizontal Kerning lookup 0 subtable"  15 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
-Substitution2: "'locl' Localized Forms lookup 0-1" S_TE
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10084.alt1
 EndChar
 
 StartChar: afii10085
@@ -57528,7 +57528,7 @@ SplineSet
  373 311 l 1,63,64
  376 190 376 190 499 190 c 0,0,1
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" S_SHA
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10090.alt1
 EndChar
 
 StartChar: afii10091
@@ -81053,7 +81053,7 @@ EndSplineSet
 Refer: 467 1086 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: S_BE
+StartChar: afii10066.alt1
 Encoding: 1114109 -1 680
 Width: 1140
 Flags: W
@@ -81105,55 +81105,74 @@ SplineSet
  440.245 1137.53 440.245 1137.53 556.752 1071.96 c 1,72,73
  902.271 1114.64 902.271 1114.64 998.354 844.269 c 0,28,29
 EndSplineSet
-Kerns2: 399 -57 "'kern' Horizontal Kerning lookup 0 subtable"  392 -35 "'kern' Horizontal Kerning lookup 0 subtable"  379 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 379 -37 "'kern' Horizontal Kerning lookup 0 subtable"  392 -35 "'kern' Horizontal Kerning lookup 0 subtable"  399 -57 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
-StartChar: S_TE
+StartChar: afii10084.alt1
 Encoding: 1114108 -1 681
 Width: 1821
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-297 1321 m 1
- 323 1498 l 1
- 1861 1498 l 1
- 1834 1321 l 1
- 297 1321 l 1
+297 1321 m 1,0,-1
+ 323 1498 l 1,1,-1
+ 1861 1498 l 1,2,-1
+ 1834 1321 l 1,3,-1
+ 297 1321 l 1,0,-1
 EndSplineSet
 Refer: 477 1096 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: S_SHA
+StartChar: afii10090.alt1
 Encoding: 1114107 -1 682
 Width: 1821
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-17 -399 m 1
- 43 -222 l 1
- 1581 -222 l 1
- 1554 -399 l 1
- 17 -399 l 1
+17 -399 m 1,0,-1
+ 43 -222 l 1,1,-1
+ 1581 -222 l 1,2,-1
+ 1554 -399 l 1,3,-1
+ 17 -399 l 1,0,-1
 EndSplineSet
 Refer: 477 1096 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: S_PE
+StartChar: afii10081.alt1
 Encoding: 1114106 -1 683
 Width: 1251
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1233 1283 m 1
- 277 1283 l 1
- 310 1451 l 1
- 1270 1451 l 1
- 1233 1283 l 1
+1233 1283 m 1,0,-1
+ 277 1283 l 1,1,-1
+ 310 1451 l 1,2,-1
+ 1270 1451 l 1,3,-1
+ 1233 1283 l 1,0,-1
 EndSplineSet
 Refer: 88 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: afii10068.alt1
+Encoding: 1114105 1114105 684
+Width: 569
+Flags: W
+LayerCount: 2
+Fore
+Refer: 328 713 N 1 0 0 1 -56 0 2
+Refer: 241 305 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: afii10069.alt1
+Encoding: 1114104 1114104 685
+Width: 1251
+Flags: W
+LayerCount: 2
+Fore
+Refer: 74 103 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

@@ -1,5 +1,7 @@
 
-Restored Liberation Sans Bold 'u' instructions
+- Restored Liberation Sans Bold 'u' instructions
+- Resolved #1009650, renames serbian shapes as per AGL
+- Added new glyph for "imacron" and "g"
 
 * Fri Aug 23 2013 Pravin Satpute <psatpute@redhat.com> 1.07.3
 - Corrected U+2588 shape to match with Dejavu fonts in Mono

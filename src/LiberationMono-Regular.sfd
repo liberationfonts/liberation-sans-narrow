@@ -3209,7 +3209,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 9568 32 18
+WinInfo: 0 66 22
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114127 674
@@ -45722,7 +45722,7 @@ SplineSet
  469 986 469 986 532.5 1006.5 c 128,-1,56
  596 1027 596 1027 675 1027 c 0,20,21
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" S_BE
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10066.alt1
 EndChar
 
 StartChar: afii10067
@@ -67734,7 +67734,7 @@ Refer: 67 96 S 1 0 0 1 -98 13 2
 Refer: 462 1080 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: S_BE
+StartChar: afii10066.alt1
 Encoding: 1114109 -1 673
 Width: 1229
 Flags: W

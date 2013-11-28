@@ -2737,12 +2737,13 @@ EndShort
 LangName: 1033 "" "" "Regular" "Ascender - Liberation Serif" "" "Version 1.07.3" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Liberation Fonts license, see https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" "https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" 
 GaspTable: 3 8 2 17 1 65535 3 0
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1113629 29 18
+WinInfo: 174 29 18
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114124 672
@@ -63089,7 +63090,7 @@ SplineSet
  784 377 784 377 784 475 c 0,36,37
 EndSplineSet
 Kerns2: 485 -51 "'kern' Horizontal Kerning lookup 0 subtable"  480 -51 "'kern' Horizontal Kerning lookup 0 subtable"  477 -78 "'kern' Horizontal Kerning lookup 0 subtable"  475 -78 "'kern' Horizontal Kerning lookup 0 subtable"  473 -78 "'kern' Horizontal Kerning lookup 0 subtable"  466 -20 "'kern' Horizontal Kerning lookup 0 subtable"  465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  460 -51 "'kern' Horizontal Kerning lookup 0 subtable"  459 -27 "'kern' Horizontal Kerning lookup 0 subtable"  458 -51 "'kern' Horizontal Kerning lookup 0 subtable" 
-Substitution2: "'locl' Localized Forms lookup 0-1" S_BE
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10066.alt1
 EndChar
 
 StartChar: afii10067
@@ -97092,10 +97093,10 @@ Refer: 67 96 N 1 0 0 1 53 -22 2
 Refer: 462 1080 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: S_BE
+StartChar: afii10066.alt1
 Encoding: 1114109 -1 671
 Width: 965
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
