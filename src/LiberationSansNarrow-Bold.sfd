@@ -18,7 +18,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1374669300
+ModificationTime: 1385998231
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 3
@@ -799,10 +799,10 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64812 44 17
+WinInfo: 9766 38 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65556 681
+BeginChars: 65556 682
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -57502,199 +57502,35 @@ Encoding: 9835 9835 647
 Width: 1536
 GlyphClass: 2
 Flags: W
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_1
- 23
-MDAP[rnd]
-PUSHB_1
- 30
-MDRP[min,rnd,black]
-PUSHB_1
- 6
-DUP
-MDRP[rp0,rnd,white]
-SRP1
-PUSHB_1
- 13
-MDRP[min,rnd,black]
-SVTCA[x-axis]
-PUSHB_1
- 39
-MDAP[rnd]
-PUSHB_1
- 33
-MDRP[rp0,rnd,white]
-PUSHB_1
- 17
-MDRP[min,rnd,black]
-PUSHB_2
- 35
- 38
-SHP[rp2]
-SHP[rp2]
-PUSHB_1
- 17
-SRP0
-PUSHB_2
- 16
- 1
-CALL
-PUSHB_2
- 36
- 37
-SHP[rp2]
-SHP[rp2]
-PUSHB_1
- 34
-MDRP[min,rnd,black]
-PUSHB_3
- 16
- 34
- 10
-CALL
-PUSHB_4
- 64
- 16
- 9
- 9
-CALL
-PUSHB_2
- 40
- 1
-CALL
-PUSHB_1
- 54
-SMD
-PUSHW_3
- 4049
- -15876
- 21
-CALL
-SPVFS
-SFVTCA[y-axis]
-PUSHB_1
- 33
-MDAP[no-rnd]
-PUSHB_1
- 37
-MDAP[no-rnd]
-PUSHB_1
- 33
-SRP0
-PUSHB_2
- 38
- 54
-MIRP[rp0,min,black]
-PUSHB_1
- 37
-SRP0
-PUSHB_2
- 34
- 54
-MIRP[rp0,min,black]
-PUSHW_3
- 4284
- -15814
- 21
-CALL
-SPVFS
-PUSHB_1
- 35
-MDAP[no-rnd]
-PUSHB_1
- 16
-MDAP[no-rnd]
-PUSHB_1
- 35
-SRP0
-PUSHB_2
- 17
- 5
-MIRP[rp0,min,black]
-PUSHB_1
- 16
-SRP0
-PUSHB_2
- 36
- 5
-MIRP[rp0,min,black]
-SPVTCA[y-axis]
-PUSHB_8
- 16
- 17
- 33
- 34
- 35
- 36
- 37
- 38
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-PUSHB_1
- 64
-SMD
-SVTCA[x-axis]
-SVTCA[y-axis]
-PUSHB_2
- 30
- 6
-SRP1
-SRP2
-PUSHB_3
- 9
- 26
- 32
-IP
-IP
-IP
-PUSHB_1
- 13
-SRP1
-PUSHB_1
- 15
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
+HStem: -76 293<973.813 1151.51> 135 291<348.35 530.555>
+VStem: 565 74<407 1042> 1189 74<199 938>
 LayerCount: 2
 Fore
 SplineSet
-1263 324 m 2,0,1
- 1263 261 1263 261 1245 210.5 c 128,-1,2
- 1227 160 1227 160 1189 125 c 1,3,4
- 1152 88 1152 88 1108 68.5 c 128,-1,5
- 1064 49 1064 49 1013 49 c 0,6,7
- 956 49 956 49 927.5 76 c 128,-1,8
- 899 103 899 103 899 150 c 0,9,10
- 899 226 899 226 956 283 c 1,11,12
- 1018 342 1018 342 1099 342 c 0,13,14
- 1147 342 1147 342 1189 324 c 1,15,-1
- 1189 772 l 1,16,-1
- 639 623 l 1,17,-1
- 639 229 l 2,18,19
- 639 167 639 167 620.5 118 c 128,-1,20
- 602 69 602 69 567 31 c 1,21,22
- 493 -43 493 -43 387 -43 c 0,23,24
- 330 -43 330 -43 301 -16.5 c 128,-1,25
- 272 10 272 10 272 55 c 0,26,27
- 272 131 272 131 331 188 c 1,28,29
- 391 248 391 248 475 248 c 0,30,31
- 520 248 520 248 565 229 c 1,32,-1
- 565 981 l 1,33,-1
- 1263 1159 l 1,34,-1
- 1263 324 l 2,0,1
-639 750 m 1,35,-1
- 1189 899 l 1,36,-1
- 1189 1016 l 1,37,-1
- 639 864 l 1,38,-1
- 639 750 l 1,35,-1
+1263 199 m 6,0,1
+ 1263 136 1263 136 1245 85.5 c 132,-1,2
+ 1227 35 1227 35 1189 0 c 5,3,4
+ 1152 -37 1152 -37 1108 -56.5 c 132,-1,5
+ 1064 -76 1064 -76 1013 -76 c 4,6,7
+ 956 -76 956 -76 927.5 -49 c 132,-1,8
+ 899 -22 899 -22 899 25 c 4,9,10
+ 899 101 899 101 956 158 c 5,11,12
+ 1018 217 1018 217 1099 217 c 4,13,14
+ 1147 217 1147 217 1189 199 c 5,15,-1
+ 1189 938 l 5,16,-1
+ 639 1042 l 5,17,-1
+ 639 407 l 6,18,19
+ 639 345 639 345 620.5 296 c 132,-1,20
+ 602 247 602 247 567 209 c 5,21,22
+ 493 135 493 135 387 135 c 4,23,24
+ 330 135 330 135 301 161.5 c 132,-1,25
+ 272 188 272 188 272 233 c 4,26,27
+ 272 309 272 309 331 366 c 5,28,29
+ 391 426 391 426 475 426 c 4,30,31
+ 520 426 520 426 565 407 c 5,32,-1
+ 565 1159 l 5,33,-1
+ 1263 1034 l 5,34,-1
+ 1263 199 l 6,0,1
 EndSplineSet
 EndChar
 
@@ -59819,6 +59655,45 @@ SplineSet
  681.706 1070.15 681.706 1070.15 829.817 831.061 c 0,24,25
 EndSplineSet
 Kerns2: 393 -57 "'kern' Horizontal Kerning lookup 0 subtable"  397 -57 "'kern' Horizontal Kerning lookup 0 subtable"  400 -74 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: uni266C
+Encoding: 9836 9836 681
+Width: 1536
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1263 324 m 2,0,1
+ 1263 261 1263 261 1245 210.5 c 128,-1,2
+ 1227 160 1227 160 1189 125 c 1,3,4
+ 1152 88 1152 88 1108 68.5 c 128,-1,5
+ 1064 49 1064 49 1013 49 c 0,6,7
+ 956 49 956 49 927.5 76 c 128,-1,8
+ 899 103 899 103 899 150 c 0,9,10
+ 899 226 899 226 956 283 c 1,11,12
+ 1018 342 1018 342 1099 342 c 0,13,14
+ 1147 342 1147 342 1189 324 c 1,15,-1
+ 1189 772 l 1,16,-1
+ 639 623 l 1,17,-1
+ 639 229 l 2,18,19
+ 639 167 639 167 620.5 118 c 128,-1,20
+ 602 69 602 69 567 31 c 1,21,22
+ 493 -43 493 -43 387 -43 c 0,23,24
+ 330 -43 330 -43 301 -16.5 c 128,-1,25
+ 272 10 272 10 272 55 c 0,26,27
+ 272 131 272 131 331 188 c 1,28,29
+ 391 248 391 248 475 248 c 0,30,31
+ 520 248 520 248 565 229 c 1,32,-1
+ 565 981 l 1,33,-1
+ 1263 1159 l 1,34,-1
+ 1263 324 l 2,0,1
+639 750 m 1,35,-1
+ 1189 899 l 1,36,-1
+ 1189 1016 l 1,37,-1
+ 639 864 l 1,38,-1
+ 639 750 l 1,35,-1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
