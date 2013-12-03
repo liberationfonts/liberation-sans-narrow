@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1385998609
+ModificationTime: 1386048922
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ OS2FamilyClass: 2053
 OS2Vendor: '1ASC'
 OS2CodePages: 6000009f.dfd70000
 OS2UnicodeRanges: a00002af.400078fb.00000000.00000000
-Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('cyrl' <'SRB ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -67695,7 +67695,7 @@ StartChar: musicalnotedbl
 Encoding: 9835 9835 674
 Width: 1229
 VWidth: 0
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet

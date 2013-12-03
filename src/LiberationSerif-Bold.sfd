@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1385980019
+ModificationTime: 1386048810
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -53,7 +53,7 @@ OS2FamilyClass: 261
 OS2Vendor: '1ASC'
 OS2CodePages: 6000009f.dfd70000
 OS2UnicodeRanges: a00002af.500078fb.00000000.00000000
-Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('cyrl' <'SRB ' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'cyrl' <'SRB ' > 'cyrl' <'MKD ' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
