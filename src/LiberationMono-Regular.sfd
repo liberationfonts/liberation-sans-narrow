@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1386048922
+ModificationTime: 1386064046
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3204,60 +3204,15 @@ EndShort
 LangName: 1033 "" "" "Regular" "Ascender - Liberation Mono" "" "Version 1.07.3" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Liberation Fonts license, see https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" "https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" 
 GaspTable: 3 8 2 17 1 65535 3 0
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 9744 56 18
+WinInfo: 0 56 18
 BeginPrivate: 0
 EndPrivate
-Grid
-135 1055 m 25
- 1170 1055 l 25
-135 1155 m 25
- 1170 1155 l 25
-862 44 m 0
- 840 44 819.333 46.8333 800 52.5 c 128
- 780.667 58.1667 763.667 66.3333 749 77 c 128
- 734.333 87.6667 722.833 100.667 714.5 116 c 128
- 706.167 131.333 702 148.667 702 168 c 0
- 702 190.667 708.5 212 721.5 232 c 128
- 734.5 252 751.5 269.5 772.5 284.5 c 128
- 793.5 299.5 817 311.333 843 320 c 128
- 869 328.667 895.333 333 922 333 c 0
- 939.333 333 956.667 331.167 974 327.5 c 128
- 991.333 323.833 1007.33 318 1022 310 c 1
- 1022 745 l 1
- 494 664 l 1
- 494 121 l 2
- 494 96.3333 487.167 73.6666 473.5 53 c 128
- 459.833 32.3333 442.333 14.6667 421 0 c 128
- 399.667 -14.6667 375.833 -26 349.5 -34 c 128
- 323.167 -42 297.333 -46 272 -46 c 0
- 250 -46 229.333 -43.1667 210 -37.5 c 128
- 190.667 -31.8333 173.667 -23.6667 159 -13 c 128
- 144.333 -2.33333 132.833 10.6667 124.5 26 c 128
- 116.167 41.3333 112 58.6667 112 78 c 0
- 112 100.667 118.5 122 131.5 142 c 128
- 144.5 162 161.5 179.5 182.5 194.5 c 128
- 203.5 209.5 227 221.333 253 230 c 128
- 279 238.667 305.333 243 332 243 c 0
- 349.334 243 366.667 241.167 384 237.5 c 128
- 401.333 233.833 417.333 228 432 220 c 1
- 432 1055 l 1
- 1084 1155 l 1
- 1084 211 l 2
- 1084 186.333 1077.17 163.667 1063.5 143 c 128
- 1049.83 122.333 1032.33 104.667 1011 90 c 128
- 989.665 75.3333 965.831 64 939.5 56 c 128
- 913.165 48 887.332 44 862 44 c 0
-494 804 m 1
- 1022 885 l 1
- 1022 1005 l 1
- 494 924 l 1
- 494 804 l 1
-EndSplineSet
 BeginChars: 1114127 675
 
 StartChar: .notdef
@@ -14767,7 +14722,7 @@ EndChar
 StartChar: l
 Encoding: 108 108 79
 Width: 1229
-Flags: W
+Flags: WO
 TtInstrs:
 NPUSHB
  26
