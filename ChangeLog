@@ -1,4 +1,4 @@
-* Thu 23 2014 Pravin Satpute <psatpute@redhat.com> 1.07.4
+* Fri 18 2014 Pravin Satpute <psatpute@redhat.com> 1.07.4
 - Restored Liberation Sans Bold 'u' instructions
 - Resolved #1009650, renames serbian shapes as per AGL
 - Added new glyph for "imacron" and "g"
