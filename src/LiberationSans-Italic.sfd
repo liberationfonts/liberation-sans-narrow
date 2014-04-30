@@ -3144,7 +3144,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 9766 38 14
+WinInfo: 1026 38 14
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114132 687
@@ -72000,7 +72000,7 @@ SplineSet
  621 1027 621 1027 700 1027 c 0,26,27
 EndSplineSet
 Kerns2: 485 -23 "'kern' Horizontal Kerning lookup 0 subtable"  480 -68 "'kern' Horizontal Kerning lookup 0 subtable"  477 -68 "'kern' Horizontal Kerning lookup 0 subtable"  475 -68 "'kern' Horizontal Kerning lookup 0 subtable"  473 -45 "'kern' Horizontal Kerning lookup 0 subtable"  465 -45 "'kern' Horizontal Kerning lookup 0 subtable"  460 -23 "'kern' Horizontal Kerning lookup 0 subtable"  458 23 "'kern' Horizontal Kerning lookup 0 subtable" 
-Substitution2: "'locl' Localized Forms lookup 0-1" afiii10066.alt1
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10066.alt1
 EndChar
 
 StartChar: afii10067
@@ -105485,7 +105485,7 @@ EndSplineSet
 Refer: 468 1086 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: afiii10066.alt1
+StartChar: afii10066.alt1
 Encoding: 1114109 -1 680
 Width: 1140
 Flags: W
@@ -105530,7 +105530,7 @@ SplineSet
  407.507 1105.65 407.507 1105.65 543.094 1033.2 c 9,50,51
  877.294 1077.58 877.294 1077.58 970.931 818 c 0,20,21
 EndSplineSet
-Kerns2: 380 -37 "'kern' Horizontal Kerning lookup 0 subtable"  393 -45 "'kern' Horizontal Kerning lookup 0 subtable"  397 -45 "'kern' Horizontal Kerning lookup 0 subtable"  400 -59 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 400 -59 "'kern' Horizontal Kerning lookup 0 subtable"  397 -45 "'kern' Horizontal Kerning lookup 0 subtable"  393 -45 "'kern' Horizontal Kerning lookup 0 subtable"  380 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
 StartChar: afii10084.alt1

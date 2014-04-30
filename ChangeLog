@@ -1,10 +1,12 @@
+
+- Resolved #1009650, Resolved issue with Liberation Sans Italic
+
 * Fri 18 2014 Pravin Satpute <psatpute@redhat.com> 1.07.4
 - Restored Liberation Sans Bold 'u' instructions
 - Resolved #1009650, renames serbian shapes as per AGL
 - Added new glyph for "imacron" and "g"
 - Added Correct shape for uni266B in all Liberation variants #1014357
 - Resolved Problematic shapes for macedonian alphabet #1013949
-
 
 * Fri Aug 23 2013 Pravin Satpute <psatpute@redhat.com> 1.07.3
 - Corrected U+2588 shape to match with Dejavu fonts in Mono
