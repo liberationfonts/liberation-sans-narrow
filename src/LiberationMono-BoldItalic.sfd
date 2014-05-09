@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1095817380
-ModificationTime: 1385998735
+ModificationTime: 1399621376
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -53,7 +53,6 @@ OS2FamilyClass: 2053
 OS2Vendor: '1ASC'
 OS2CodePages: 6000009f.dfd70000
 OS2UnicodeRanges: a00002af.400078fb.00000000.00000000
-Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('cyrl' <'SRB ' > 'cyrl' <'MKD ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -2841,10 +2840,10 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 9744 56 18
+WinInfo: 1113168 56 18
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114127 680
+BeginChars: 1114127 674
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -50389,7 +50388,6 @@ SplineSet
  550 982 550 982 622 1004.5 c 128,-1,67
  694 1027 694 1027 780 1027 c 0,25,26
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" afii10066.alt1
 EndChar
 
 StartChar: afii10067
@@ -50703,7 +50701,6 @@ SplineSet
  348 1082 l 1,5,-1
  1173 1082 l 1,0,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" afii10068.alt1
 EndChar
 
 StartChar: afii10069
@@ -50984,7 +50981,6 @@ SplineSet
  832 0 l 1,23,-1
  154 0 l 1,8,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" afii10069.alt1
 EndChar
 
 StartChar: afii10070
@@ -52993,7 +52989,6 @@ SplineSet
  243 1082 l 1,7,-1
  1196 1082 l 1,0,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" afii10081.alt1
 EndChar
 
 StartChar: afii10082
@@ -53115,7 +53110,6 @@ SplineSet
  178 892 l 1,7,-1
  215 1082 l 1,0,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" afii10084.alt1
 EndChar
 
 StartChar: afii10085
@@ -54088,7 +54082,6 @@ SplineSet
  1045 0 l 1,11,-1
  -26 0 l 1,0,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" afii10090.alt1
 EndChar
 
 StartChar: afii10091
@@ -74880,137 +74873,8 @@ Refer: 67 96 N 1 0 0 1 -97 34 2
 Refer: 462 1080 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: afii10066.alt1
-Encoding: 1114109 -1 672
-Width: 1229
-VWidth: 0
-LayerCount: 2
-Fore
-SplineSet
-810.491 504 m 0,0,1
- 832.164 584.886 832.164 584.886 827.363 653.496 c 0,2,3
- 820.59 750.337 820.59 750.337 805.933 774.82 c 0,4,5
- 802.33 780.343 802.33 780.343 798.989 785.094 c 0,6,7
- 736.991 873.576 736.991 873.576 652.144 872.521 c 128,-1,8
- 567.297 871.466 567.297 871.466 449.169 780.29 c 1,9,10
- 393.146 735.29 393.146 735.29 341.012 658.497 c 0,11,12
- 294.553 590.066 294.553 590.066 271.491 504 c 0,13,14
- 252.007 431.284 252.007 431.284 251.957 368.953 c 0,15,16
- 251.911 308.214 251.911 308.214 273.619 264.133 c 0,17,18
- 294.958 220.8 294.958 220.8 338.536 195.9 c 128,-1,19
- 382.118 171.001 382.118 171.001 453.264 171 c 0,20,21
- 528.552 171 528.552 171 585.977 195.52 c 0,22,23
- 642.809 219.786 642.809 219.786 684.971 262.19 c 0,24,25
- 728.166 305.637 728.166 305.637 758.755 366.257 c 0,26,27
- 790.372 428.916 790.372 428.916 810.491 504 c 0,0,1
-1048.35 844.269 m 0,28,29
- 1070.6 781.667 1070.6 781.667 1074.22 691.861 c 0,30,31
- 1077.56 608.74 1077.56 608.74 1050.56 508 c 0,32,33
- 1019.94 393.716 1019.94 393.716 961.066 298.707 c 0,34,35
- 901.588 202.72 901.588 202.72 817.911 133.388 c 0,36,37
- 733.982 63.8467 733.982 63.8467 628.64 25.7881 c 0,38,39
- 524.045 -12 524.045 -12 404.229 -12 c 0,40,41
- 285.666 -12 285.666 -12 200.937 23.6133 c 0,42,43
- 115.435 59.5518 115.435 59.5518 67.1465 126.963 c 128,-1,44
- 18.8643 194.367 18.8643 194.367 9.90527 291.02 c 0,45,46
- 1.04199 386.632 1.04199 386.632 33.0264 506 c 0,47,48
- 64.3711 622.979 64.3711 622.979 127.59 715.578 c 0,49,50
- 188.79 805.22 188.79 805.22 243.109 868.345 c 0,51,52
- 289.689 922.479 289.689 922.479 358.254 975.325 c 1,53,54
- 229.817 1104.5 229.817 1104.5 285.715 1269.9 c 1,55,56
- 322.054 1403.98 322.054 1403.98 453.298 1504.95 c 128,-1,57
- 584.645 1606 584.645 1606 752.771 1606 c 2,58,-1
- 1260.77 1606 l 2,59,60
- 1270.77 1606 1270.77 1606 1276.26 1598.5 c 128,-1,61
- 1281.75 1591 1281.75 1591 1279.07 1581 c 2,62,-1
- 1239.68 1434 l 2,63,64
- 1237 1424 1237 1424 1227.49 1416.5 c 128,-1,65
- 1217.98 1409 1217.98 1409 1207.98 1409 c 2,66,-1
- 735.984 1409 l 2,67,68
- 645.508 1409 645.508 1409 593.592 1369.24 c 128,-1,69
- 541.675 1329.47 541.675 1329.47 518.56 1243.2 c 0,70,71
- 490.245 1137.53 490.245 1137.53 606.752 1071.96 c 1,72,73
- 952.271 1114.64 952.271 1114.64 1048.35 844.269 c 0,28,29
-EndSplineSet
-EndChar
-
-StartChar: afii10084.alt1
-Encoding: 1114108 -1 673
-Width: 1229
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-239 1371 m 1,0,-1
- 1311 1371 l 1,1,-1
- 1279 1203 l 1,2,-1
- 207 1203 l 1,3,-1
- 239 1371 l 1,0,-1
-EndSplineSet
-Refer: 478 1096 N 1 0 0 1 0 0 2
-EndChar
-
-StartChar: afii10090.alt1
-Encoding: 1114107 -1 674
-Width: 1229
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
--61 -129 m 5,0,-1
- 1011 -129 l 5,1,-1
- 979 -297 l 5,2,-1
- -93 -297 l 5,3,-1
- -61 -129 l 5,0,-1
-EndSplineSet
-Refer: 478 1096 N 1 0 0 1 0 0 2
-EndChar
-
-StartChar: afii10081.alt1
-Encoding: 1114106 -1 675
-Width: 1229
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-309 1421 m 1,0,-1
- 1251 1421 l 1,1,-1
- 1219 1253 l 1,2,-1
- 277 1253 l 1,3,-1
- 309 1421 l 1,0,-1
-934 0 m 1,4,-1
- 1165 1082 l 1,5,-1
- 883 1082 l 1,6,-1
- 710 190 l 1,7,-1
- 353 190 l 1,8,-1
- 526 1082 l 1,9,-1
- 244 1082 l 1,10,-1
- 34 0 l 1,11,-1
- 934 0 l 1,4,-1
-EndSplineSet
-EndChar
-
-StartChar: afii10068.alt1
-Encoding: 1114105 -1 676
-Width: 1229
-Flags: W
-LayerCount: 2
-Fore
-Refer: 329 713 N 1 0 0 1 8 0 2
-Refer: 241 305 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: afii10069.alt1
-Encoding: 1114104 -1 677
-Width: 1229
-Flags: W
-LayerCount: 2
-Fore
-Refer: 74 103 N 1 0 0 1 0 0 2
-EndChar
-
 StartChar: uni266C
-Encoding: 9836 9836 678
+Encoding: 9836 9836 672
 Width: 1229
 Flags: W
 LayerCount: 2
@@ -75060,7 +74924,7 @@ EndSplineSet
 EndChar
 
 StartChar: musicalnotedbl
-Encoding: 9835 9835 679
+Encoding: 9835 9835 673
 Width: 1229
 VWidth: 0
 Flags: W
