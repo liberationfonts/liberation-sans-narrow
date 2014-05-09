@@ -3179,7 +3179,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 9610 31 15
+WinInfo: 1113675 31 15
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114124 677
@@ -94891,7 +94891,7 @@ Refer: 88 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: afii10068.alt1
-Encoding: 1114105 1114105 674
+Encoding: 1114105 -1 674
 Width: 569
 Flags: W
 LayerCount: 2
