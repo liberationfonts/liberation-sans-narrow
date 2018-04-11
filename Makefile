@@ -30,16 +30,13 @@ SRCDIR       = src
 EXPORTDIR    = export
 CHECK_PREFIX = check
 
-VER          = 1.07.4
-NAME         = Liberation
+VER          = 1.07.5
+NAME         = Liberation Sans Narrow
 VARIANTS     = \
-    Mono-Regular       Mono-Bold        Mono-Italic       Mono-BoldItalic       \
-    Sans-Regular       Sans-Bold        Sans-Italic       Sans-BoldItalic       \
-    Serif-Regular      Serif-Bold       Serif-Italic      Serif-BoldItalic      \
     SansNarrow-Regular SansNarrow-Bold  SansNarrow-Italic SansNarrow-BoldItalic
 
-DISTPREFIX     := liberation-fonts-$(VER)
-DISTPREFIX_TTF := liberation-fonts-ttf-$(VER)
+DISTPREFIX     := liberation-sans-narrow-fonts-$(VER)
+DISTPREFIX_TTF := liberation-sans-narrow-fonts-ttf-$(VER)
 SFDFILES       := $(addprefix $(SRCDIR)/$(NAME),    $(VARIANTS:=.sfd))
 TTFFILES       := $(addprefix $(EXPORTDIR)/$(NAME), $(VARIANTS:=.ttf))
 
