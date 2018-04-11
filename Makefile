@@ -25,18 +25,18 @@ endif
 
 EXPORTSCRIPT = scripts/fontexport.pe
 SCRIPTS      = $(EXPORTSCRIPT) scripts/sfd2ttf.pe scripts/ttf2sfd.pe
-MISCFILES    = AUTHORS ChangeLog COPYING License.txt README TODO
+MISCFILES    = AUTHORS ChangeLog COPYING License.txt README.rst TODO
 SRCDIR       = src
 EXPORTDIR    = export
 CHECK_PREFIX = check
 
 VER          = 1.07.5
-NAME         = Liberation Sans Narrow
+NAME         = Liberation
 VARIANTS     = \
     SansNarrow-Regular SansNarrow-Bold  SansNarrow-Italic SansNarrow-BoldItalic
 
-DISTPREFIX     := liberation-sans-narrow-fonts-$(VER)
-DISTPREFIX_TTF := liberation-sans-narrow-fonts-ttf-$(VER)
+DISTPREFIX     := liberation-narrow-fonts-$(VER)
+DISTPREFIX_TTF := liberation-narrow-fonts-ttf-$(VER)
 SFDFILES       := $(addprefix $(SRCDIR)/$(NAME),    $(VARIANTS:=.sfd))
 TTFFILES       := $(addprefix $(EXPORTDIR)/$(NAME), $(VARIANTS:=.ttf))
 
