@@ -4,7 +4,7 @@ FullName: Liberation Sans Narrow Bold Italic
 FamilyName: Liberation Sans Narrow
 Weight: Bold
 Copyright: Copyright 2010 Oracle and/or its affiliates
-Version: 1.07.5
+Version: 1.07.6
 ItalicAngle: -12
 UnderlinePosition: -110
 UnderlineWidth: 215
@@ -32865,11 +32865,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-1091 1203 m 1,0,-1
- 291 1203 l 1,1,-1
- 340 1371 l 1,2,-1
- 1146 1371 l 1,3,-1
- 1091 1203 l 1,0,-1
+931 1203 m 1,0,-1
+ 351 1203 l 5,1,-1
+ 400 1371 l 5,2,-1
+ 986 1371 l 1,3,-1
+ 931 1203 l 1,0,-1
 EndSplineSet
 EndChar
 

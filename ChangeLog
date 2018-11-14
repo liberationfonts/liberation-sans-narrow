@@ -1,3 +1,7 @@
+* Wed Nov 14 2018 Vishal Vijayraghavan<vishalvijayraghavan> 1.07.6
+- Fixed Too wide macron for Liberation Sans Narrow fonts, 
+  Patch fix by Zirneklitis<eko@lanet.lv> #1195216
+
 * Wed Apr 11 2018 Pravin Satpute <psatpute@redhat.com> 1.07.5
 - Separated Liberation Sans Narrow project from Liberation fonts for changes 
   planned to rename Liberation 1.07.4 to LiberationOne and Liberation 2.00.1 

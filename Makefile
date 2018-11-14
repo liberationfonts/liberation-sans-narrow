@@ -30,7 +30,7 @@ SRCDIR       = src
 EXPORTDIR    = export
 CHECK_PREFIX = check
 
-VER          = 1.07.5
+VER          = 1.07.6
 NAME         = Liberation
 VARIANTS     = \
     SansNarrow-Regular SansNarrow-Bold  SansNarrow-Italic SansNarrow-BoldItalic
